@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2026-11-02 11:36
 
-translate rus strings:
+translate ru strings:
 
     # game/core/screens.rpy:9
     old "Enabling this will let Sayori use your system notifications, and check if JS is your active window"

@@ -1,13 +1,13 @@
 ﻿# TODO: Translation updated at 2026-11-02 11:36
 
 # game/additional/music.rpy:46
-translate rus music_menu_2fc0ee37:
+translate ru music_menu_2fc0ee37:
 
     # s "Ummm..."
     s "Эммм..."
 
 # game/additional/music.rpy:47
-translate rus music_menu_a0b65927:
+translate ru music_menu_a0b65927:
 
     # s "Something isn't right."
     s "Что-то не так"
@@ -19,54 +19,54 @@ translate rus music_menu_c75378ab:
     s "Если ты не помнишь, то всё во что ты хочешь со мной сыграть находится в {a=[location]}custom_bgm{/a} folder."
 
 # game/additional/music.rpy:57
-translate rus music_menu_23d81314:
+translate ru music_menu_23d81314:
 
     # s "[player]..."
     s "[player]..."
 
 # game/additional/music.rpy:58
-translate rus music_menu_e4cbf22c:
+translate ru music_menu_e4cbf22c:
 
     # s "The sound is off, silly."
     s "Мызука выключена, дурашка"
 
 # game/additional/music.rpy:61
-translate rus music_menu_a3774311:
+translate ru music_menu_a3774311:
 
     # s "Shall I turn the sound on?" nointeract
     s "Стоит включить?" nointeract
 
 # game/additional/music.rpy:64
-translate rus music_menu_53d5932b:
+translate ru music_menu_53d5932b:
 
     # s "Give me a sec."
     s "Дай мне секундочку~"
 
 # game/additional/music.rpy:66
-translate rus music_menu_d976f4aa:
+translate ru music_menu_d976f4aa:
 
     # s "There we go."
     s "Готово!"
 
 # game/additional/music.rpy:67
-translate rus music_menu_ca7ed685:
+translate ru music_menu_ca7ed685:
 
     # "What did you want to listen to?"
     "Что хочешь послушать?"
 
 # game/additional/music.rpy:71
-translate rus music_menu_e043d770:
+translate ru music_menu_e043d770:
 
     # s "Okay."
     s "Окей"
 
 # game/additional/music.rpy:91
-translate rus music_menu_7599c034:
+translate ru music_menu_7599c034:
 
     # s "There you go."
     s "Вот оно!"
 
-translate rus strings:
+translate ru strings:
 
     # game/additional/music.rpy:24
     old "Why didn't this change?"

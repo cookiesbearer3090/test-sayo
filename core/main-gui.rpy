@@ -1,18 +1,18 @@
 ﻿# TODO: Translation updated at 2026-11-02 11:36
 
 # game/core/main-gui.rpy:95
-translate rus boop_90f0707f:
+translate ru boop_90f0707f:
 
     # s "Did you just boop me?"
     s "Ты только что сделал буп?"
 
 # game/core/main-gui.rpy:96
-translate rus boop_0661005f:
+translate ru boop_0661005f:
 
     # s "Ehehehe~"
     s "Эхехехе~"
 
-translate rus strings:
+translate ru strings:
 
     # game/core/main-gui.rpy:17
     old "Talk"

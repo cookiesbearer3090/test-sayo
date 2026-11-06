@@ -1,12 +1,12 @@
 ﻿# TODO: Translation updated at 2026-11-02 11:36
 
 # game/core/poetry.rpy:533
-translate rus showpoem_d0816981:
+translate ru showpoem_d0816981:
 
     # "This feature is now depreciated. Please use {i}$ showmadechoice(){/i} instead.\nRefer to {u}poem_responses/poems.rpy{/u}on how to call a poem anew."
     ""
 
-translate rus strings:
+translate ru strings:
 
     # game/core/poetry.rpy:234
     old "Hi\nNot dead\nTaking a very long nap\n\n-Sayori (alive)"

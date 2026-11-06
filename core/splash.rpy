@@ -1,10 +1,10 @@
 ﻿# TODO: Translation updated at 2026-11-02 11:36
 
 # game/core/splash.rpy:309
-translate rus splashscreen_0320a168:
+translate ru splashscreen_0320a168:
 
     # "[config.name] is a Doki Doki Literature Club fan mod that is not affiliated with Team Salvato."
-    ""Только Сайори" является фанатской модификацией к игре "Тук-Тук Литературный клуб", которая не связана с командоц Салвато."
+    "'Только Сайори' является фанатской модификацией к игре 'Тук-Тук Литературный клуб', которая не связана с командоц Салвато."
 
 # game/core/splash.rpy:310
 translate rus splashscreen_12775544:
@@ -13,13 +13,13 @@ translate rus splashscreen_12775544:
     "Модификация предназначена для посиделок только после прохождения оригинальной игры и содержит спойлеры."
 
 # game/core/splash.rpy:311
-translate rus splashscreen_e193832f:
+translate ru splashscreen_e193832f:
 
     # "Game files for Doki Doki Literature Club are required to play this mod and can be downloaded for free at: http://ddlc.moe"
     "Официальные файлы для работы игры могут быть загружены отсюда:http://ddlc.moe или со стима(ато ты ж конечно смог это запустить без файлов ориг игры) "
 
 # game/core/splash.rpy:392
-translate rus after_load_78a4e9dc:
+translate ru after_load_78a4e9dc:
 
     # "The save file could not be loaded."
     "Сохранённые файлы могут быть потеряны"
@@ -30,7 +30,7 @@ translate rus after_load_5c5510ae:
     # "Are you trying to cheat?"
     "Пытаешься читерить?"
 
-translate rus strings:
+translate ru strings:
 
     # game/core/splash.rpy:24
     old "This game is an unofficial fan game that is unaffiliated with Team Salvato."

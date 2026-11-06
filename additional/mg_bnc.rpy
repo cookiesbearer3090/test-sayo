@@ -1,19 +1,19 @@
 ﻿# TODO: Translation updated at 2026-11-02 11:36
 
 # game/additional/mg_bnc.rpy:89
-translate rus mg_bnc_5fa563ba:
+translate ru mg_bnc_5fa563ba:
 
     # s gbaaipa "..."
     s gbaaipa ""
 
 # game/additional/mg_bnc.rpy:128
-translate rus mg_bnc_14e8d7da:
+translate ru mg_bnc_14e8d7da:
 
     # s "It stops being funny, [player]."
     s ""
 
 # game/additional/mg_bnc.rpy:134
-translate rus mg_bnc_95199111:
+translate ru mg_bnc_95199111:
 
     # s "Come on, give a valid answer already!"
     s ""
@@ -25,114 +25,114 @@ translate rus mg_bnc_341e5375:
     s ""
 
 # game/additional/mg_bnc.rpy:146
-translate rus mg_bnc_01b45fae:
+translate ru mg_bnc_01b45fae:
 
     # s "I'm getting annoyed, [player]."
     s ""
 
 # game/additional/mg_bnc.rpy:152
-translate rus mg_bnc_5a6b20b6:
+translate ru mg_bnc_5a6b20b6:
 
     # s "Further error will cost you a try."
     s ""
 
 # game/additional/mg_bnc.rpy:160
-translate rus mg_bnc_c3973a7c:
+translate ru mg_bnc_c3973a7c:
 
     # s "I warned you."
     s ""
 
 # game/additional/mg_bnc.rpy:174
-translate rus mg_bnc_baa5ad0d:
+translate ru mg_bnc_baa5ad0d:
 
     # s "Last chance, [mr] I Can't Count Up To [mg_obj.guessed_len]."
     s ""
 
 # game/additional/mg_bnc.rpy:210
-translate rus mg_bnc_s_comment_4d4b61e0:
+translate ru mg_bnc_s_comment_4d4b61e0:
 
     # s abaaaoa "I propose you a number of [mg_obj.guessed_len] digits..."
     s abaaaoa ""
 
 # game/additional/mg_bnc.rpy:211
-translate rus mg_bnc_s_comment_f1211275:
+translate ru mg_bnc_s_comment_f1211275:
 
     # s "Try to guess it."
     s ""
 
 # game/additional/mg_bnc.rpy:214
-translate rus mg_bnc_s_comment_8fb5e037:
+translate ru mg_bnc_s_comment_8fb5e037:
 
     # s bbaaada "Are you giving up?"
     s bbaaada ""
 
 # game/additional/mg_bnc.rpy:216
-translate rus mg_bnc_s_comment_a40713db:
+translate ru mg_bnc_s_comment_a40713db:
 
     # s abaacia "Your tries are over."
     s abaacia ""
 
 # game/additional/mg_bnc.rpy:218
-translate rus mg_bnc_s_comment_b962237c:
+translate ru mg_bnc_s_comment_b962237c:
 
     # s "You were close to the right answer."
     s ""
 
 # game/additional/mg_bnc.rpy:220
-translate rus mg_bnc_s_comment_1f187c67:
+translate ru mg_bnc_s_comment_1f187c67:
 
     # s abaadaa "OK, I'll tell you the right answer."
     s abaadaa ""
 
 # game/additional/mg_bnc.rpy:221
-translate rus mg_bnc_s_comment_3cba28d8:
+translate ru mg_bnc_s_comment_3cba28d8:
 
     # s abaaloa "The right number was {i}[mg_obj.guessed]{/i}."
     s abaaloa ""
 
 # game/additional/mg_bnc.rpy:222
-translate rus mg_bnc_s_comment_1f5e092d:
+translate ru mg_bnc_s_comment_1f5e092d:
 
     # s ebaacqa "Let me think of another number."
     s ebaacqa ""
 
 # game/additional/mg_bnc.rpy:225
-translate rus mg_bnc_s_comment_a0e6aec8:
+translate ru mg_bnc_s_comment_a0e6aec8:
 
     # s abaacoa "You're right. It was {i}[mg_obj.guessed]{/i}!"
     s abaacoa ""
 
 # game/additional/mg_bnc.rpy:226
-translate rus mg_bnc_s_comment_4f687ab2:
+translate ru mg_bnc_s_comment_4f687ab2:
 
     # s abaaaea "Let's play one more time."
     s abaaaea ""
 
 # game/additional/mg_bnc.rpy:229
-translate rus mg_bnc_s_comment_05bb0885:
+translate ru mg_bnc_s_comment_05bb0885:
 
     # s gbaaipa "OK, you win, {i}meanie{/i}!"
     s gbaaipa ""
 
 # game/additional/mg_bnc.rpy:230
-translate rus mg_bnc_s_comment_20dca1e6:
+translate ru mg_bnc_s_comment_20dca1e6:
 
     # s "I'm really annoyed right now..."
     s ""
 
 # game/additional/mg_bnc.rpy:232
-translate rus mg_bnc_s_comment_2c908695:
+translate ru mg_bnc_s_comment_2c908695:
 
     # s gbaabpa "So I don't want to play this game with you anymore."
     s gbaabpa ""
 
 # game/additional/mg_bnc.rpy:233
-translate rus mg_bnc_s_comment_d81f2c6d:
+translate ru mg_bnc_s_comment_d81f2c6d:
 
     # s "I won't lose next time."
     s ""
 
-translate rus strings:
+translate ru strings:
 
     # game/additional/mg_bnc.rpy:49
     old "Tries left: [mg_obj.lifes]"

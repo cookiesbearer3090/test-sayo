@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2026-11-02 11:36
 
-translate rus strings:
+translate ru strings:
 
     # game/additional/renpystein/gpu_renderer.rpy:3032
     old "ROUND: {}  |  KILLS: {}  |  COINS: {}"
