@@ -268,5 +268,5 @@ translate ru strings:
 
     # game/core/screens.rpy:1672
     old "Click 'Help' for the complete list."
-    new "Нажми "Помощь" для полного списка"
+    new "Нажми 'Помощь' для полного списка"
 
