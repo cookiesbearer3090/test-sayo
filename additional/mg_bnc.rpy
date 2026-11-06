@@ -1,7 +1,7 @@
 ﻿# TODO: Translation updated at 2026-11-02 11:36
-#original:
-# game/additional/mg_bnc.rpy:89
-translate ru mg_bnc_5fa563ba:
+#original:https://github.com/New-Traduction-Club/justsayori-mod-tl-russian/tree/main
+
+
 
     # game/additional/mg_bnc.rpy:89
 translate ru mg_bnc_5fa563ba:

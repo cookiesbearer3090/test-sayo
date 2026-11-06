@@ -92,7 +92,7 @@ translate ru s_poem_sunshine_afcc8d19:
 
 # game/dialogs/script-poemresponses.rpy:25
 translate ru s_poem_sunshine_e0ce4177:
-r
+
     # s abgccoa "So now, {i}you{/i} are the one hee for me, {w=0.5}{nw}"
     s abgccoa "Ну сейчас, {i}ты{/i} единственный кто мне нужен, {w=0.5}{nw}"
 

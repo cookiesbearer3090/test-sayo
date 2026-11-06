@@ -163,13 +163,13 @@ translate ru compliment_kind_1030c679:
     extend abgccoa "ты всегда делаешь мой день ярче!"
 
 # game/dialogs/script-compliments.rpy:199
-translate  compliment_kind_7709d5e1:
+translate ru compliment_kind_7709d5e1:
 
     # s abhfcka "I just want you to know that I really appreciate that."
     s abhfcka "Я просто хочу, чтобы ты знал как я это ценю!"
 
 # game/dialogs/script-compliments.rpy:201
-translate rus compliment_kind_bfbf5684:
+translate ru compliment_kind_bfbf5684:
 
     # s "I love you so much, [player]~"
     s "Я очень сильно тебя люблю, [player]~"
@@ -187,7 +187,7 @@ translate ru compliment_look_up_to_you_8e9086bf:
     s bbfbmoaj "Честно, я не ожидала услышать от тебя такое. Я всегда думала, что ест другие люди, на которых стоит равняться..."
 
 # game/dialogs/script-compliments.rpy:225
-translate rus compliment_look_up_to_you_c0405a13:
+translate ru compliment_look_up_to_you_c0405a13:
 
     # s bbfblhaj "And I never really considered myself to be... that kind of person, I guess."
     s bbfblhaj "И я не думала, что могу быть таким человеком."
@@ -271,67 +271,67 @@ translate ru compliment_thank_for_being_here_d0262008:
     s "Я очень сильно тебя люблю, [player]."
 
 # game/dialogs/script-compliments.rpy:303
-translate rus compliment_like_your_writing_8971b054:
+translate ru compliment_like_your_writing_8971b054:
 
     # s abaanea "Aww, that means a lot to me, [player]! Thank you so much!"
     s abaanea "Оуу, это много для меня значит, [player]! Спасибо большое!"
 
 # game/dialogs/script-compliments.rpy:304
-translate rus compliment_like_your_writing_e274b22b:
+translate ru compliment_like_your_writing_e274b22b:
 
     # s abaamoaj "You know, since there isn't much else for me to do in here, I try to put a lot of effort into my poetry..."
     s abaamoaj "Знаешь, у меня здесь не очень много дел, поэтому я стараюсь уделять время поэмам..."
 
 # game/dialogs/script-compliments.rpy:305
-translate rus compliment_like_your_writing_11ed3750:
+translate ru compliment_like_your_writing_11ed3750:
 
     # s abbbmhaj "Sometimes it's hard for me to think of what to write, {w=0.5}{nw}"
     s abbbmhaj "Иногда это сложно, придумать о чём написать, {w=0.5}{nw}"
 
 # game/dialogs/script-compliments.rpy:306
-translate rus compliment_like_your_writing_3af5ea76:
+translate ru compliment_like_your_writing_3af5ea76:
 
     # extend bbbbaaaj "or I get a bit too insecure about my abilities..."
     extend bbbbaaaj "или мне не хватает мастерства..."
 
 # game/dialogs/script-compliments.rpy:307
-translate rus compliment_like_your_writing_b6bbe82e:
+translate ru compliment_like_your_writing_b6bbe82e:
 
     # s abbbcka "But if you really look forward to seeing my creations, I think it's worth it!"
     s abbbcka "Но если тебе правда нравится моё творчество, то я думаю оно того стоит!"
 
 # game/dialogs/script-compliments.rpy:308
-translate rus compliment_like_your_writing_3b3c11df:
+translate ru compliment_like_your_writing_3b3c11df:
 
     # s abbbksa "Do you write, [player]? I'd love to see your work someday if you do!"
     s abbbksa "А ты пишешь, [player]? Я хотела бы однажды посмотреть твою работу, если ты пишешь!"
 
 # game/dialogs/script-compliments.rpy:309
-translate rus compliment_like_your_writing_08157ef5:
+translate ru compliment_like_your_writing_08157ef5:
 
     # s abhfcka "I'm sure you can write some amazing things too, ehehehe~"
     s abhfcka "Я уверена, что ты можешь написать что-то прекрасное, эхехе~"
 
 # game/dialogs/script-compliments.rpy:331
-translate rus compliment_ball_of_sunshine_5b81713d:
+translate ru compliment_ball_of_sunshine_5b81713d:
 
     # s abgccea "[player]! That was so cute!"
     s abgccea "[player]! Это так мило!"
 
 # game/dialogs/script-compliments.rpy:332
-translate rus compliment_ball_of_sunshine_00b25538:
+translate ru compliment_ball_of_sunshine_00b25538:
 
     # s abbcnka "Thank you! I hope I can continue making you happy, and brightening up your days, {w=0.5}{nw}"
     s abbcnka "Спасибо! Я надеюсь, что буду дальше делать тебя счастливым и делать дни ярче, {w=0.5}{nw}"
 
 # game/dialogs/script-compliments.rpy:333
-translate rus compliment_ball_of_sunshine_f42c8b76:
+translate ru compliment_ball_of_sunshine_f42c8b76:
 
     # extend abgccaa "just like you do for me!"
     extend abgccaa "Как ты делаешь со мной!"
 
 # game/dialogs/script-compliments.rpy:334
-translate rus compliment_ball_of_sunshine_d346cb55:
+translate ru compliment_ball_of_sunshine_d346cb55:
 
     # s abaacqa "Ehehehe~"
     s abaacqa "Эхехехе~"

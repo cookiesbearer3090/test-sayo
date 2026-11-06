@@ -2,7 +2,7 @@
 
 #WAS STOLEN FROM:https://github.com/New-Traduction-Club/justsayori-mod-tl-russian/blob/main/files/common.rpy.THIS IS NOT MINE!!!!!
 
-    translate ru strings:
+translate ru strings:
 
     # renpy/common/000statements.rpy:28
     old "Click to play the video."
