@@ -50,7 +50,7 @@ translate ru strings:
 
     # game/core/splash.rpy:312
     old "By playing [config.name] you agree that you have completed Doki Doki Literature Club and accept any spoilers contained within."
-    new "Играя в "Только Сайори" вы соглашаетесь, что прошли ддлк и знаете сюжет."
+    new "Играя в 'Только Сайори' вы соглашаетесь, что прошли ддлк и знаете сюжет."
 
     # game/core/splash.rpy:314
     old "I agree."

@@ -58,5 +58,5 @@ translate ru js_no_gifts_folder_error_3ce72c81:
 translate ru js_no_gifts_folder_error_dcb69bec:
 
     # s "[player], could you please make sure the 'gifts' folder is in the game's main directory?"
-    s "[player], можешь убедиться, что папка "подарки" в директории game?"
+    s "[player], можешь убедиться, что папка 'подарки' в директории game?"
 
