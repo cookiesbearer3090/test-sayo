@@ -31,10 +31,10 @@ translate rus s_topics_depression_bbacc90a:
     s bbhfbaa "Когда я сказала тебе о...Ты знаешь..."
 
 # game/dialogs/script-topics.rpy:126
-translate rus s_topics_depression_a3521d80:
+translate ru s_topics_depression_a3521d80:
 
     # s "The 'rainclouds' I have in my head... {w=0.5}{nw}"
-    s "О "Серых тучках" в моей голове..."
+    s "О 'Серых тучках' в моей голове..."
 
 # game/dialogs/script-topics.rpy:127
 translate rus s_topics_depression_88106c5d:
@@ -58,7 +58,7 @@ translate rus s_topics_depression_6cf6687b:
 translate rus s_topics_depression_b29793e0:
 
     # s abhaaca "I was like that for as long as I could remember, and I ended up getting really good at keeping the 'rainclouds' inside. At least in front of others."
-    s abhaaca "Я была такой столько, сколько себя помню, и научилась прятать "Серые тучки". По крайней мере перед остальными."
+    s abhaaca "Я была такой столько, сколько себя помню, и научилась прятать 'Серые тучки'. По крайней мере перед остальными."
 
 # game/dialogs/script-topics.rpy:131
 translate rus s_topics_depression_ac4319a1:

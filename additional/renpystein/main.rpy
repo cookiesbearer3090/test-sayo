@@ -19,7 +19,7 @@ translate ru renpystein_game_7b658c2f:
     s "У тебя [persistent.tradu_coins] Траду-монет "
 
 # game/additional/renpystein/main.rpy:523
-translate rus renpystein_game_e861930e:
+translate ru renpystein_game_e861930e:
 
     # s "A new high score!"
     s "Новый рекорд"
