@@ -60,7 +60,7 @@ translate ru strings:
 
     # game/core/screens.rpy:394
     old "There's no point!\nYou'll just get back here!"
-    new "Это не имеет смысла!/nТы просто вренёшься обратно!"
+    new "Это не имеет смысла!\nТы просто вренёшься обратно!"
 
     # game/core/screens.rpy:398
     old "Submods"
