@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-11-02 11:36
+# TODO: Translation updated at 2026-11-02 11:36
 
 # game/dialogs/script-events.rpy:85
 translate ru event_interlude_e1554201:

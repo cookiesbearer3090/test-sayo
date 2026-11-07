@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-11-02 11:36
+# TODO: Translation updated at 2026-11-02 11:36
 
 # game/dialogs/script-fun-facts.rpy:48
 translate ru s_fun_fact_beginning_test_0b4ce13c:

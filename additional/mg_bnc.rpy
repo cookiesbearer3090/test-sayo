@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-11-02 11:36
+# TODO: Translation updated at 2026-11-02 11:36
 #original:https://github.com/New-Traduction-Club/justsayori-mod-tl-russian/tree/main
 
 

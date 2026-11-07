@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-11-02 11:36
+# TODO: Translation updated at 2026-11-02 11:36
 
 # game/dialogs/script-special-events.rpy:20
 translate ru s_player_birthday_74afd826:

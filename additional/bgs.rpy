@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-11-02 11:36
+# TODO: Translation updated at 2026-11-02 11:36
 
 # game/additional/bgs.rpy:491
 translate ru bg_hub_no_change_a3372936:

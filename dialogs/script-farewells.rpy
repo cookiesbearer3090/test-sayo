@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-11-02 11:36
+# TODO: Translation updated at 2026-11-02 11:36
 
 # game/dialogs/script-farewells.rpy:77
 translate ru farewell_force_quit_5a6d1a43:

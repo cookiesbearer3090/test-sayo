@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-11-02 11:36
+# TODO: Translation updated at 2026-11-02 11:36
 
 # game/dialogs/script-poemresponses.rpy:5
 translate ru s_poem_sunshine_ae1c326f:

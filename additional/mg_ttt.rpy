@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-11-02 11:36
+# TODO: Translation updated at 2026-11-02 11:36
 
 # game/additional/mg_ttt.rpy:247
 translate ru mg_ttt_s_comment_2b37041d:

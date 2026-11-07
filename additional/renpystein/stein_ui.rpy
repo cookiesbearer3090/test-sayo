@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-11-02 11:36
+# TODO: Translation updated at 2026-11-02 11:36
 # i forgot about it and i found this:https://github.com/New-Traduction-Club/justsayori-mod-tl-russian, i'm so tired. And i thinh that my work is useless. This isn't my translation
 
 translate ru strings:

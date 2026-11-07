@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-11-02 11:36
+# TODO: Translation updated at 2026-11-02 11:36
 # перевёл
 # game/dialogs/naming.rpy:209
 translate ru sayori_give_nickname_e2580eb8:

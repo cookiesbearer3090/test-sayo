@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-11-02 11:36
+# TODO: Translation updated at 2026-11-02 11:36
 #Later
 # game/core/poetry.rpy:533
 translate ru showpoem_d0816981:

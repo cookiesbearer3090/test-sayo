@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-11-02 11:36
+# TODO: Translation updated at 2026-11-02 11:36
 
 # game/dialogs/gifting-implementation.rpy:41
 translate ru js_cookies_reaction_b66d7e6e:

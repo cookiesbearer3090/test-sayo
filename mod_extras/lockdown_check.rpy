@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-11-02 11:36
+# TODO: Translation updated at 2026-11-02 11:36
 
 # game/mod_extras/lockdown_check.rpy:17
 translate ru lockdown_check_8f9b81eb:

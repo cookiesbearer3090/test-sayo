@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-11-02 11:36
+# TODO: Translation updated at 2026-11-02 11:36
 
 # game/core/gifting.rpy:40
 translate ru fae_cookies_168dfbd7:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-11-02 11:36
+# TODO: Translation updated at 2026-11-02 11:36
 
 # game/dialogs/script-holidays.rpy:10
 translate ru fae_player_bday_autoload_10ca24c7:
