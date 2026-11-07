@@ -38,6 +38,6 @@ init 100 python:
         _ru_set_style_font(_ru_style_name, _ru_font_bold)
 
     try:
-        style.say_dialogue.size = 30
+        style.say_dialogue.size = 24
     except Exception:
         pass
